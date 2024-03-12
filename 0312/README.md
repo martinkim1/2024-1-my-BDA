@@ -5,3 +5,4 @@ $ git clone https://github.com/ai7dnn/2024-1-BDA.git
 **마크다운** 작성해보기
 <br>
 코랩 구글 드라이브 연동해보기
+코랩 깃허브 사본 저장해보기 #inclass/
